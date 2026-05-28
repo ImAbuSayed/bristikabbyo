@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bristikabbyo
+
+This log tracks the cryptographic history and versioning for the song **Bristikabbyo** (bristikabbyo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-29T02:27:33.235010 | `v1` | `2f667c8da7165987d8b8fd10d79a0f236b8a0ee896e5c7a21b77f681dae1de01` | `114d9008c904c0bee20533b5c986ee87ecf8f18a51cc894b8a18f7a2e4ad6a84` | `2026-05-29_bristikabbyo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

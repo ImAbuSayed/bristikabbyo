@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bristikabbyo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Bristikabbyo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bristikabbyo/) |
+| **Get License** | [Commercial Licensing for Bristikabbyo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bristikabbyo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2f667c8da7165987d8b8fd10d79a0f236b8a0ee896e5c7a21b77f681dae1de01` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
