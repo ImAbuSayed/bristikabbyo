@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bristikabbyo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Bristikabbyo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bristikabbyo/) |
+| **Get License** | [Get License For Bristikabbyo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bristikabbyo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> গভীর রাতের এই নিস্তব্ধতায়.. নিস্তব্ধতায়..
+> খুঁজে ফিরি তোমায় বুকের ব্যথায়
+> অদৃশ্য ছায়ায় তুমি আছো মিশে
+> অবুঝ এ মন তোমায় খোঁজে নিমিষে.. খোঁজে নিমিষে..
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
